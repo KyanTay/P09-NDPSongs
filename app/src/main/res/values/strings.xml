@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">P09-NDPSongs</string>
+    <string name="tvSongTitle">Song Title</string>
+    <string name="etSongTitle">Enter song title here</string>
+    <string name="tvSingerName">Singers</string>
+    <string name="etSingerName">Enter singer name here</string>
+    <string name="tvYear">Year</string>
+    <string name="etYear">Enter year of release here</string>
+    <string name="rgStars">Stars</string>
+    <string name="btnInsert">Insert</string>
+    <string name="btnShowList">Show List</string>
+    <string name="btnShow5StarSong">Show all songs with 5 Stars</string>
+</resources>
